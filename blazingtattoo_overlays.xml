@@ -1,0 +1,2849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PedDecorationCollection>
+  <bRequiredForSync value="true" />
+  <presets>
+    <Item>
+      <uvPos x="0.000000" y="0.650000" />
+      <scale x="0.0500000" y="0.055000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_01_M</nameHash><!--SecuroServ Logo Back -->
+      <txdHash>blazingtattoo_01</txdHash>
+      <txtHash>blazingtattoo_01</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+<!--     <Item>
+      <uvPos x="0.000000" y="0.650000" />
+      <scale x="0.0500000" y="0.055000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_01_F</nameHash>
+      <txdHash>blazingtattoo_01</txdHash>
+      <txtHash>blazingtattoo_01</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item> -->
+    <Item>
+      <uvPos x="0.500000" y="0.775000" />
+      <scale x="0.0800000" y="0.055000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_02_M</nameHash>
+      <txdHash>blazingtattoo_02</txdHash>
+      <txtHash>blazingtattoo_02</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.278000" y="0.480000" />
+      <scale x="0.100000" y="0.150000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_03_M</nameHash>
+      <txdHash>blazingtattoo_03</txdHash>
+      <txtHash>blazingtattoo_03</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.500000" y="0.7750000" />
+      <scale x="0.0750000" y="0.110000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_04_A</nameHash><!-- Vespucci Kings -->
+      <txdHash>blazingtattoo_04</txdHash>
+      <txtHash>blazingtattoo_04</txtHash> 
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.720000" y="0.670000" />
+      <scale x="0.280000" y="0.350000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_05_M</nameHash>
+      <txdHash>blazingtattoo_05</txdHash>
+      <txtHash>blazingtattoo_05</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.720000" y="0.670000" />
+      <scale x="0.165000" y="0.350000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_06_M</nameHash><!-- Simple Sleeve -->
+      <txdHash>blazingtattoo_06</txdHash>
+      <txtHash>blazingtattoo_06</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.720000" y="0.670000" />
+      <scale x="0.160000" y="0.350000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_07_M</nameHash>
+      <txdHash>blazingtattoo_07</txdHash>
+      <txtHash>blazingtattoo_07</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.500000" y="0.77500" />
+      <scale x="0.100000" y="0.10000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_08_M</nameHash>
+      <txdHash>blazingtattoo_08</txdHash>
+      <txtHash>blazingtattoo_08</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>               
+    <Item>
+      <uvPos x="0.740000" y="0.320000" />
+      <scale x="0.200000" y="0.200000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_09_M</nameHash>
+      <txdHash>blazingtattoo_09</txdHash>
+      <txtHash>blazingtattoo_09</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>  
+    <Item>
+      <uvPos x="0.650000" y="0.600000" />
+      <scale x="0.100000" y="0.100000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_10_M</nameHash>
+      <txdHash>blazingtattoo_10</txdHash>
+      <txtHash>blazingtattoo_10</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>  
+    <Item>
+      <uvPos x="0.835000" y="0.600000" />      
+      <scale x="0.100000" y="0.120000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_11_M</nameHash>
+      <txdHash>blazingtattoo_11</txdHash>
+      <txtHash>blazingtattoo_11</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>          
+    <Item>
+      <uvPos x="0.830000" y="0.350000" />
+      <scale x="0.100000" y="0.100000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_12_M</nameHash>
+      <txdHash>blazingtattoo_12</txdHash>
+      <txtHash>blazingtattoo_12</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>   
+    <Item>
+      <uvPos x="0.240000" y="0.585000" />
+      <scale x="0.273600" y="0.208800" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_13_F</nameHash>
+      <txdHash>blazingtattoo_13</txdHash>
+      <txtHash>blazingtattoo_13</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>        
+    <Item>
+      <uvPos x="-0.025000" y="0.400000" />
+      <scale x="0.070000" y="0.054000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_14_F</nameHash>
+      <txdHash>blazingtattoo_14</txdHash>
+      <txtHash>blazingtattoo_14</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.84000" y="0.810000" />
+      <scale x="0.11000" y="0.100000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_15_F</nameHash>
+      <txdHash>blazingtattoo_15</txdHash>
+      <txtHash>blazingtattoo_15</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.000000" y="0.650000" />
+      <scale x="0.143000" y="0.143000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_16_M</nameHash>
+      <txdHash>blazingtattoo_16</txdHash>
+      <txtHash>blazingtattoo_16</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.715000" y="0.300000" />
+      <scale x="0.100000" y="0.100000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_17_M</nameHash>
+      <txdHash>blazingtattoo_17</txdHash>
+      <txtHash>blazingtattoo_17</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>         
+    <Item>
+      <uvPos x="0.740000" y="0.320000" />
+      <scale x="0.140000" y="0.140000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_18_M</nameHash>
+      <txdHash>blazingtattoo_18</txdHash>
+      <txtHash>blazingtattoo_18</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>    
+    <Item>
+      <uvPos x="0.235000" y="0.700000" />
+      <scale x="0.170000" y="0.160000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_19_M</nameHash>
+      <txdHash>blazingtattoo_19</txdHash>
+      <txtHash>blazingtattoo_19</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>  
+    <Item>
+      <uvPos x="0.800000" y="0.550000" />
+      <scale x="0.150000" y="0.150000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_20_F</nameHash>
+      <txdHash>blazingtattoo_20</txdHash>
+      <txtHash>blazingtattoo_20</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>      
+    <Item>
+      <uvPos x="0.825000" y="0.285000" />
+      <scale x="0.150000" y="0.150000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_21_F</nameHash>
+      <txdHash>blazingtattoo_21</txdHash>
+      <txtHash>blazingtattoo_21</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>         
+    <Item>
+      <uvPos x="0.150000" y="0.70000" />
+      <scale x="0.150000" y="0.150000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_22_F</nameHash>
+      <txdHash>blazingtattoo_22</txdHash>
+      <txtHash>blazingtattoo_22</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>  
+    <Item>
+      <uvPos x="0.650000" y="0.750000" />
+      <scale x="0.100000" y="0.135000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_23_F</nameHash>
+      <txdHash>blazingtattoo_23</txdHash>
+      <txtHash>blazingtattoo_23</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>      
+    <Item>
+      <uvPos x="0.250000" y="0.750000" />
+      <scale x="0.060000" y="0.060000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_24_M</nameHash>
+      <txdHash>blazingtattoo_24</txdHash>
+      <txtHash>blazingtattoo_24</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>   
+    <Item>
+      <uvPos x="0.875000" y="0.750000" />
+      <scale x="0.10000" y="0.10000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_25_M</nameHash>
+      <txdHash>blazingtattoo_25</txdHash>
+      <txtHash>blazingtattoo_25</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>    
+    <Item>
+      <uvPos x="0.625000" y="0.7250000" />
+      <scale x="0.080000" y="0.080000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_26_M</nameHash>
+      <txdHash>blazingtattoo_26</txdHash>
+      <txtHash>blazingtattoo_26</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>  
+    <Item>
+      <uvPos x="0.705000" y="0.760000" />
+      <scale x="0.060000" y="0.060000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_27_M</nameHash>
+      <txdHash>blazingtattoo_27</txdHash>
+      <txtHash>blazingtattoo_27</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>   
+    <Item>
+      <uvPos x="0.235000" y="0.700000" />
+      <scale x="0.170000" y="0.160000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_28_M</nameHash>
+      <txdHash>blazingtattoo_28</txdHash>
+      <txtHash>blazingtattoo_28</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>  
+    <Item>
+      <uvPos x="0.110000" y="0.70000" />
+      <scale x="0.100000" y="0.100000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_29_M</nameHash>
+      <txdHash>blazingtattoo_29</txdHash>
+      <txtHash>blazingtattoo_29</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>    
+    <Item>
+      <uvPos x="0.7250000" y="0.550000" />
+      <scale x="0.100000" y="0.100000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_30_M</nameHash>
+      <txdHash>blazingtattoo_30</txdHash>
+      <txtHash>blazingtattoo_30</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.650000" y="0.45000" />
+      <scale x="0.120000" y="0.15000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_31_F</nameHash><!-- Alexis Snake -->
+      <txdHash>blazingtattoo_31</txdHash>
+      <txtHash>blazingtattoo_31</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>        
+    <Item>
+      <uvPos x="0.250000" y="0.60000" />
+      <scale x="0.084000" y="0.105000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_32_F</nameHash>
+      <txdHash>blazingtattoo_32</txdHash>
+      <txtHash>blazingtattoo_32</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>                 
+    <Item>
+      <uvPos x="0.64000" y="0.60000" />
+      <scale x="0.07000" y="0.07000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_33_F</nameHash>
+      <txdHash>blazingtattoo_33</txdHash>
+      <txtHash>blazingtattoo_33</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>    
+    <Item>
+      <uvPos x="0.135000" y="0.70000" />
+      <scale x="0.100000" y="0.100000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_34_F</nameHash>
+      <txdHash>blazingtattoo_34</txdHash>
+      <txtHash>blazingtattoo_34</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.240000" y="0.585000" />
+      <scale x="0.18000" y="0.20000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_35_M</nameHash>
+      <txdHash>blazingtattoo_35</txdHash>
+      <txtHash>blazingtattoo_35</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>     
+    <Item>
+      <uvPos x="0.250000" y="0.700000" />
+      <scale x="0.170000" y="0.160000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_36_M</nameHash>
+      <txdHash>blazingtattoo_36</txdHash>
+      <txtHash>blazingtattoo_36</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.6750000" y="0.550000" />
+      <scale x="0.140000" y="0.140000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_37_F</nameHash>
+      <txdHash>blazingtattoo_37</txdHash>
+      <txtHash>blazingtattoo_37</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>           
+    <Item>
+      <uvPos x="0.500000" y="0.850000" />
+      <scale x="0.060000" y="0.088000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_38_F</nameHash>
+      <txdHash>blazingtattoo_38</txdHash>
+      <txtHash>blazingtattoo_38</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>      
+    <Item>
+      <uvPos x="0.500000" y="0.850000" />
+      <scale x="0.060000" y="0.088000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_39_M</nameHash>
+      <txdHash>blazingtattoo_39</txdHash>
+      <txtHash>blazingtattoo_39</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>      
+    <Item>
+      <uvPos x="0.235000" y="0.700000" />
+      <scale x="0.170000" y="0.160000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_40_F</nameHash>
+      <txdHash>blazingtattoo_40</txdHash>
+      <txtHash>blazingtattoo_40</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.725000" y="0.340000" />
+      <scale x="0.180000" y="0.180000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_41_M</nameHash><!-- Chief Stomach -->
+      <txdHash>blazingtattoo_41</txdHash>
+      <txtHash>blazingtattoo_41</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>         
+    <Item>
+      <uvPos x="0.725000" y="0.600000" />
+      <scale x="0.180000" y="0.180000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_42_M</nameHash>
+      <txdHash>blazingtattoo_42</txdHash>
+      <txtHash>blazingtattoo_42</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>  
+    <Item>
+      <uvPos x="0.23000" y="0.600000" />
+      <scale x="0.180000" y="0.180000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_43_M</nameHash><!-- Chief Back -->
+      <txdHash>blazingtattoo_43</txdHash>
+      <txtHash>blazingtattoo_43</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>                      
+    <Item>
+      <uvPos x="0.50000" y="0.50000" />
+      <scale x="0.18100" y="0.20000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_44_M</nameHash><!-- Church Sleeve -->
+      <txdHash>blazingtattoo_44</txdHash>
+      <txtHash>blazingtattoo_44</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item> 
+    <Item>
+      <uvPos x="0.630000" y="0.575000" />
+      <scale x="0.070000" y="0.070000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_45_M</nameHash>
+      <txdHash>blazingtattoo_45</txdHash>
+      <txtHash>blazingtattoo_45</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>          
+    <Item>
+      <uvPos x="0.500000" y="0.850000" />
+      <scale x="0.0750000" y="0.110000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_46_M</nameHash>
+      <txdHash>blazingtattoo_46</txdHash>
+      <txtHash>blazingtattoo_46</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>    
+    <Item>
+      <uvPos x="0.240000" y="0.35000" />
+      <scale x="0.18000" y="0.20000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_47_M</nameHash>
+      <txdHash>blazingtattoo_47</txdHash>
+      <txtHash>blazingtattoo_47</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>    
+    <Item>
+      <uvPos x="0.725000" y="0.540000" />
+      <scale x="0.200000" y="0.200000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_48_M</nameHash>
+      <txdHash>blazingtattoo_48</txdHash>
+      <txtHash>blazingtattoo_48</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.715000" y="0.360000" />
+      <scale x="0.200000" y="0.200000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_49_M</nameHash>
+      <txdHash>blazingtattoo_49</txdHash>
+      <txtHash>blazingtattoo_49</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item> 
+    <Item>
+      <uvPos x="0.235000" y="0.750000" />
+      <scale x="0.150000" y="0.100000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_50_M</nameHash><!-- Vinewood M Back -->
+      <txdHash>blazingtattoo_50</txdHash>
+      <txtHash>blazingtattoo_50</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>              
+    <Item>
+      <uvPos x="0.74000" y="0.65000" />
+      <scale x="0.150000" y="0.100000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_51_M</nameHash><!-- Vinewood M Front -->
+      <txdHash>blazingtattoo_51</txdHash>
+      <txtHash>blazingtattoo_51</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>     
+    <Item>
+      <uvPos x="0.235000" y="0.750000" />
+      <scale x="0.150000" y="0.100000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_52_F</nameHash><!-- Vinewood F Back -->
+      <txdHash>blazingtattoo_52</txdHash>
+      <txtHash>blazingtattoo_52</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>      
+    <Item>
+      <uvPos x="0.74000" y="0.650000" />
+      <scale x="0.150000" y="0.100000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_53_F</nameHash><!-- Vinewood F Front -->
+      <txdHash>blazingtattoo_53</txdHash>
+      <txtHash>blazingtattoo_53</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>       
+    <Item>
+      <uvPos x="0.74000" y="0.600000" />
+      <scale x="0.150000" y="0.150000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_54_M</nameHash>
+      <txdHash>blazingtattoo_54</txdHash>
+      <txtHash>blazingtattoo_54</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>          
+    <Item>
+      <uvPos x="0.500000" y="0.65000" />
+      <scale x="0.350000" y="0.220000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_55_M</nameHash><!-- Skull Face -->
+      <txdHash>blazingtattoo_55</txdHash>
+      <txtHash>blazingtattoo_55</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item> 
+    <Item>
+      <uvPos x="0.220000" y="0.640000" />
+      <scale x="0.165000" y="0.350000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_56_M</nameHash>
+      <txdHash>blazingtattoo_56</txdHash>
+      <txtHash>blazingtattoo_56</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>         
+    <Item>
+      <uvPos x="0.77500" y="0.475000" />
+      <scale x="0.1400" y="0.14000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_57_M</nameHash><!-- Heartbeat -->
+      <txdHash>blazingtattoo_57</txdHash>
+      <txtHash>blazingtattoo_57</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>      
+    <Item>
+      <uvPos x="0.80000" y="0.380000" />
+      <scale x="0.100000" y="0.100000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_58_M</nameHash><!-- Crown -->
+      <txdHash>blazingtattoo_58</txdHash>
+      <txtHash>blazingtattoo_58</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>      
+    <Item>
+      <uvPos x="0.23000" y="0.600000" />
+      <scale x="0.180000" y="0.180000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_59_M</nameHash>
+      <txdHash>blazingtattoo_59</txdHash>
+      <txtHash>blazingtattoo_59</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>  
+    <Item>
+      <uvPos x="0.830000" y="0.380000" />
+      <scale x="0.080000" y="0.080000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_60_M</nameHash>
+      <txdHash>blazingtattoo_60</txdHash>
+      <txtHash>blazingtattoo_60</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>   
+    <Item>
+      <uvPos x="0.58000" y="0.520000" />
+      <scale x="0.030000" y="0.030000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_61_M</nameHash>
+      <txdHash>blazingtattoo_61</txdHash>
+      <txtHash>blazingtattoo_61</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>      
+    <Item>
+      <uvPos x="0.730000" y="0.630000" />
+      <scale x="0.150000" y="0.075000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_62_M</nameHash>
+      <txdHash>blazingtattoo_62</txdHash>
+      <txtHash>blazingtattoo_62</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>   
+    <Item>
+      <uvPos x="0.750000" y="0.325000" />
+      <scale x="0.100000" y="0.100000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_63_M</nameHash>
+      <txdHash>blazingtattoo_63</txdHash>
+      <txtHash>blazingtattoo_63</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item> 
+    <Item>
+      <uvPos x="0.460000" y="0.810000" />
+      <scale x="0.0750000" y="0.110000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_64_M</nameHash>
+      <txdHash>blazingtattoo_64</txdHash>
+      <txtHash>blazingtattoo_64</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>    
+    <Item>
+      <uvPos x="0.235000" y="0.750000" />
+      <scale x="0.180000" y="0.100000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_65_M</nameHash><!-- Street Dreams Black M -->
+      <txdHash>blazingtattoo_65</txdHash>
+      <txtHash>blazingtattoo_65</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>              
+    <Item>
+      <uvPos x="0.74000" y="0.65000" />
+      <scale x="0.180000" y="0.100000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_66_M</nameHash><!-- Street Dreams White M -->
+      <txdHash>blazingtattoo_66</txdHash>
+      <txtHash>blazingtattoo_66</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>     
+    <Item>
+      <uvPos x="0.235000" y="0.750000" />
+      <scale x="0.180000" y="0.100000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_67_F</nameHash><!-- Street Dreams Black F -->
+      <txdHash>blazingtattoo_67</txdHash>
+      <txtHash>blazingtattoo_67</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>      
+    <Item>
+      <uvPos x="0.74000" y="0.650000" />
+      <scale x="0.180000" y="0.100000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_68_F</nameHash><!-- Street Dreams White F -->
+      <txdHash>blazingtattoo_68</txdHash>
+      <txtHash>blazingtattoo_68</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.725000" y="0.2250000" />
+      <scale x="0.180000" y="0.180000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_69_M</nameHash>
+      <txdHash>blazingtattoo_69</txdHash>
+      <txtHash>blazingtattoo_69</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.450000" y="0.640000" />
+      <scale x="0.230000" y="0.350000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_70_F</nameHash>
+      <txdHash>blazingtattoo_70</txdHash>
+      <txtHash>blazingtattoo_70</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item> 
+    <Item>
+      <uvPos x="0.500000" y="0.800000" />
+      <scale x="0.110000" y="0.150000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_71_F</nameHash><!-- Lighthouse -->
+      <txdHash>blazingtattoo_71</txdHash>
+      <txtHash>blazingtattoo_71</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>    
+    <Item>
+      <uvPos x="0.475000" y="0.640000" />
+      <scale x="0.200000" y="0.350000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_72_M</nameHash>
+      <txdHash>blazingtattoo_72</txdHash>
+      <txtHash>blazingtattoo_72</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.50000" y="0.640000" />
+      <scale x="0.165000" y="0.350000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_73_F</nameHash>
+      <txdHash>blazingtattoo_73</txdHash>
+      <txtHash>blazingtattoo_73</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.470000" y="0.640000" />
+      <scale x="0.300000" y="0.350000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_74_M</nameHash>
+      <txdHash>blazingtattoo_74</txdHash>
+      <txtHash>blazingtattoo_74</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.500" y="0.45000" />
+      <scale x="0.10000" y="0.12000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_75_M</nameHash><!-- 288 -->
+      <txdHash>blazingtattoo_75</txdHash>
+      <txtHash>blazingtattoo_75</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>       
+    <Item>
+      <uvPos x="0.750000" y="0.375000" />
+      <scale x="0.100000" y="0.080000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_76_F</nameHash><!-- Dagger -->
+      <txdHash>blazingtattoo_76</txdHash>
+      <txtHash>blazingtattoo_76</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>       
+    <Item>
+      <uvPos x="0.475000" y="0.50000" />
+      <scale x="0.13000" y="0.15000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_77_M</nameHash><!-- Canadian Medic -->
+      <txdHash>blazingtattoo_77</txdHash>
+      <txtHash>blazingtattoo_77</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>       
+    <Item>
+      <uvPos x="0.25000" y="0.40000" />
+      <scale x="0.1200" y="0.18000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_78_M</nameHash><!-- Cavalry -->
+      <txdHash>blazingtattoo_78</txdHash>
+      <txtHash>blazingtattoo_78</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>       
+    <Item>
+      <uvPos x="0.20000" y="0.45000" />
+      <scale x="0.1629" y="0.18000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_79_M</nameHash>
+      <txdHash>blazingtattoo_79</txdHash>
+      <txtHash>blazingtattoo_79</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>       
+    <Item>
+      <uvPos x="0.825000" y="0.600000" />
+      <scale x="0.0750000" y="0.0750000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_80_M</nameHash>
+      <txdHash>blazingtattoo_80</txdHash>
+      <txtHash>blazingtattoo_80</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item> 
+    <Item>
+      <uvPos x="0.9500" y="0.475000" />
+      <scale x="0.36000" y="0.25000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_81_M</nameHash><!-- Dragon -->
+      <txdHash>blazingtattoo_81</txdHash>
+      <txtHash>blazingtattoo_81</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item> 
+    <Item>
+      <uvPos x="0.3100" y="0.310000" />
+      <scale x="0.075000" y="0.0750000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_82_M</nameHash><!-- Dreidel Flamer -->
+      <txdHash>blazingtattoo_82</txdHash>
+      <txtHash>blazingtattoo_82</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item> 
+    <Item>
+      <uvPos x="0.500000" y="0.580000" />
+      <scale x="0.200000" y="0.400000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_83_M</nameHash><!-- Martel -->
+      <txdHash>blazingtattoo_83</txdHash>
+      <txtHash>blazingtattoo_83</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>      
+    <Item>
+      <uvPos x="0.450000" y="0.640000" />
+      <scale x="0.250000" y="0.350000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_84_M</nameHash><!-- Nordic Right -->
+      <txdHash>blazingtattoo_84</txdHash>
+      <txtHash>blazingtattoo_84</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item> 
+    <Item>
+      <uvPos x="0.450000" y="0.640000" />
+      <scale x="0.30000" y="0.350000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_85_M</nameHash><!-- Nordic Left -->
+      <txdHash>blazingtattoo_85</txdHash>
+      <txtHash>blazingtattoo_85</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item> 
+    <Item>
+      <uvPos x="0.725000" y="0.350000" />
+      <scale x="0.225000" y="0.215000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_86_M</nameHash><!-- Scorpion Chest -->
+      <txdHash>blazingtattoo_86</txdHash>
+      <txtHash>blazingtattoo_86</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>   
+    <Item>
+      <uvPos x="0.6000" y="0.40000" />
+      <scale x="0.075000" y="0.10000" />
+      <rotation value="0.250000" />
+      <nameHash>blazingtattoo_87_M</nameHash><!-- Sharon -->
+      <txdHash>blazingtattoo_87</txdHash>
+      <txtHash>blazingtattoo_87</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item> 
+    <Item>
+      <uvPos x="0.425000" y="0.500000" />
+      <scale x="0.075000" y="0.0750000" />
+      <rotation value="0.00000" />
+      <nameHash>blazingtattoo_88_M</nameHash><!-- Tear Drops -->
+      <txdHash>blazingtattoo_88</txdHash>
+      <txtHash>blazingtattoo_88</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.725000" y="0.550000" />
+      <scale x="0.180000" y="0.180000" />
+      <rotation value="0.00000" />
+      <nameHash>blazingtattoo_89_M</nameHash><!-- Demon -->
+      <txdHash>blazingtattoo_89</txdHash>
+      <txtHash>blazingtattoo_89</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.2000" y="0.40000" />
+      <scale x="0.195000" y="0.15000" />
+      <rotation value="0.00000" />
+      <nameHash>blazingtattoo_90_F</nameHash><!-- Lily Dragon -->
+      <txdHash>blazingtattoo_90</txdHash>
+      <txtHash>blazingtattoo_90</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.425000" y="0.650000" />
+      <scale x="0.075000" y="0.0750000" />
+      <rotation value="0.00000" />
+      <nameHash>blazingtattoo_91_M</nameHash><!-- Eye Scar -->
+      <txdHash>blazingtattoo_91</txdHash>
+      <txtHash>blazingtattoo_91</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.20000" y="0.40000" />
+      <scale x="0.1029" y="0.12000" />
+      <rotation value="0.00000" />
+      <nameHash>blazingtattoo_92_F</nameHash><!-- Switch Blade -->
+      <txdHash>blazingtattoo_92</txdHash>
+      <txtHash>blazingtattoo_92</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item> 
+    <Item>
+      <uvPos x="0.78000" y="0.6250000" />
+      <scale x="0.100000" y="0.100000" />
+      <rotation value="0.00000" />
+      <nameHash>blazingtattoo_93_M</nameHash><!-- Heart -->
+      <txdHash>blazingtattoo_93</txdHash>
+      <txtHash>blazingtattoo_93</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.725000" y="0.6250000" />
+      <scale x="0.100000" y="0.100000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_94_M</nameHash><!-- Poison -->
+      <txdHash>blazingtattoo_94</txdHash>
+      <txtHash>blazingtattoo_94</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item> 
+    <Item>
+      <uvPos x="0.500000" y="0.7750000" />
+      <scale x="0.17500" y="0.150000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_95_M</nameHash><!-- Spiderman -->
+      <txdHash>blazingtattoo_95</txdHash>
+      <txtHash>blazingtattoo_95</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>     
+    <Item>
+      <uvPos x="0.85000" y="0.460000" />
+      <scale x="0.10000" y="0.070000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_96_M</nameHash><!-- Line 1 -->
+      <txdHash>blazingtattoo_96</txdHash>
+      <txtHash>blazingtattoo_96</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>         
+    <Item>
+      <uvPos x="0.625000" y="0.460000" />
+      <scale x="0.10000" y="0.070000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_97_M</nameHash><!-- Line 2 -->
+      <txdHash>blazingtattoo_97</txdHash>
+      <txtHash>blazingtattoo_97</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>         
+    <Item>
+      <uvPos x="0.725000" y="0.525000" />
+      <scale x="0.12000" y="0.070000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_98_M</nameHash><!-- Line 3 -->
+      <txdHash>blazingtattoo_98</txdHash>
+      <txtHash>blazingtattoo_98</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>         
+    <Item>
+      <uvPos x="0.600000" y="0.650000" />
+      <scale x="0.11000" y="0.070000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_99_M</nameHash><!-- Line 4 -->
+      <txdHash>blazingtattoo_99</txdHash>
+      <txtHash>blazingtattoo_99</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>         
+    <Item>
+      <uvPos x="0.85000" y="0.65000" />
+      <scale x="0.11000" y="0.070000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_100_M</nameHash><!-- Line 5 -->
+      <txdHash>blazingtattoo_100</txdHash>
+      <txtHash>blazingtattoo_100</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>         
+    <Item>
+      <uvPos x="0.725000" y="0.725000" />
+      <scale x="0.10000" y="0.070000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_101_M</nameHash><!-- Line 6 -->
+      <txdHash>blazingtattoo_101</txdHash>
+      <txtHash>blazingtattoo_101</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>          
+    <Item>
+      <uvPos x="0.25000" y="0.680000" />
+      <scale x="0.220000" y="0.220000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_102_M</nameHash><!-- Faces -->
+      <txdHash>blazingtattoo_102</txdHash>
+      <txtHash>blazingtattoo_102</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>      
+    <Item>
+      <uvPos x="0.74000" y="0.590000" />
+      <scale x="0.150000" y="0.150000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_103_M</nameHash><!-- Death Dealers Chest -->
+      <txdHash>blazingtattoo_103</txdHash>
+      <txtHash>blazingtattoo_103</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.23000" y="0.600000" />
+      <scale x="0.180000" y="0.180000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_104_M</nameHash><!-- Death Dealers Back -->
+      <txdHash>blazingtattoo_104</txdHash>
+      <txtHash>blazingtattoo_104</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>  
+    <Item>
+      <uvPos x="0.500000" y="0.850000" />
+      <scale x="0.050000" y="0.080000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_105_M</nameHash><!-- Death Dealers Upper Arm -->
+      <txdHash>blazingtattoo_105</txdHash>
+      <txtHash>blazingtattoo_105</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>  
+    <Item>
+      <uvPos x="0.750" y="0.52500" />
+      <scale x="0.070000" y="0.09000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_106_M</nameHash><!-- Death Dealers Forearm -->
+      <txdHash>blazingtattoo_106</txdHash>
+      <txtHash>blazingtattoo_106</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>  
+    <Item>
+      <uvPos x="0.500000" y="0.850000" />
+      <scale x="0.050000" y="0.080000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_107_M</nameHash><!-- Death Dealers Upper Arm -->
+      <txdHash>blazingtattoo_107</txdHash>
+      <txtHash>blazingtattoo_107</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>  
+    <Item>
+      <uvPos x="0.2250" y="0.52500" />
+      <scale x="0.070000" y="0.09000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_108_M</nameHash><!-- Death Dealers Forearm -->
+      <txdHash>blazingtattoo_108</txdHash>
+      <txtHash>blazingtattoo_108</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>  
+    <Item>
+      <uvPos x="0.225000" y="0.70000" />
+      <scale x="0.130000" y="0.130000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_109_F</nameHash><!-- Fleur De Lis -->
+      <txdHash>blazingtattoo_109</txdHash>
+      <txtHash>blazingtattoo_109</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>        
+    <Item>
+      <uvPos x="0.500000" y="0.77500000" />
+      <scale x="0.090000" y="0.110000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_110_M</nameHash><!-- Gator -->
+      <txdHash>blazingtattoo_110</txdHash>
+      <txtHash>blazingtattoo_110</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>  
+    <Item>
+      <uvPos x="0.500000" y="0.850000" />
+      <scale x="0.090000" y="0.110000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_111_F</nameHash><!-- Star Card -->
+      <txdHash>blazingtattoo_111</txdHash>
+      <txtHash>blazingtattoo_111</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>             
+<Item>
+      <uvPos x="0.59000" y="0.77500" />
+      <scale x="0.100000" y="0.100000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_112_M</nameHash><!-- Dagger Left -->
+      <txdHash>blazingtattoo_112</txdHash>
+      <txtHash>blazingtattoo_112</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>       
+    <Item>
+      <uvPos x="0.87000" y="0.77500" />
+      <scale x="0.100000" y="0.100000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_113_M</nameHash><!-- Dagger Right -->
+      <txdHash>blazingtattoo_113</txdHash>
+      <txtHash>blazingtattoo_113</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>                  
+    <Item>
+      <uvPos x="0.850" y="0.7000" />
+      <scale x="0.0500000" y="0.0500000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_114_M</nameHash><!-- 8 Point Star Left Chest -->
+      <txdHash>blazingtattoo_114</txdHash>
+      <txtHash>blazingtattoo_114</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>    
+    <Item>
+      <uvPos x="0.6000" y="0.70000" />
+      <scale x="0.0500000" y="0.0500000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_115_M</nameHash><!-- 8 Point Star Right Chest -->
+      <txdHash>blazingtattoo_115</txdHash>
+      <txtHash>blazingtattoo_115</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>    
+    <Item>
+      <uvPos x="0.7000" y="0.45000" />
+      <scale x="0.04000" y="0.04000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_116_M</nameHash><!--  8 Point Star Left Knee -->
+      <txdHash>blazingtattoo_116</txdHash>
+      <txtHash>blazingtattoo_116</txtHash>
+      <zone>ZONE_LEFT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item> 
+    <Item>
+      <uvPos x="0.275000" y="0.45000" />
+      <scale x="0.04000" y="0.04000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_117_M</nameHash><!--  8 Point Star Right Knee -->
+      <txdHash>blazingtattoo_117</txdHash>
+      <txtHash>blazingtattoo_117</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>             
+    <Item>
+      <uvPos x="0.50000" y="0.650000" />
+      <scale x="0.4100" y="0.33000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_118_M</nameHash><!-- Musical Sleeve -->
+      <txdHash>blazingtattoo_118</txdHash>
+      <txtHash>blazingtattoo_118</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>                       
+    <Item>
+      <uvPos x="0.25000" y="0.5000" />
+      <scale x="0.1000" y="0.13000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_119_M</nameHash><!-- Ninja Stars -->
+      <txdHash>blazingtattoo_119</txdHash>
+      <txtHash>blazingtattoo_119</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>      
+    <Item>
+      <uvPos x="0.40000" y="0.8000" />
+      <scale x="0.180000" y="0.180000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_120_M</nameHash><!-- Chinese New Year Dragon -->
+      <txdHash>blazingtattoo_120</txdHash>
+      <txtHash>blazingtattoo_120</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.5800" y="0.72000" />
+      <scale x="0.120000" y="0.220000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_121_M</nameHash><!-- Dragon -->
+      <txdHash>blazingtattoo_121</txdHash>
+      <txtHash>blazingtattoo_121</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>     
+    <Item>
+      <uvPos x="0.8200" y="0.63000" />
+      <scale x="0.130000" y="0.130000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_122_M</nameHash><!-- Soaring Eagle -->
+      <txdHash>blazingtattoo_122</txdHash>
+      <txtHash>blazingtattoo_122</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item> 
+    <Item>          
+      <uvPos x="0.3500" y="0.7000" />
+      <scale x="0.0600" y="0.0600" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_123_M</nameHash><!--Lotus Letters -->
+      <txdHash>blazingtattoo_123</txdHash>
+      <txtHash>blazingtattoo_123</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>   
+    <Item>
+      <uvPos x="0.65000" y="0.320000" />
+      <scale x="0.120000" y="0.140000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_124_M</nameHash><!-- Twisted Snake -->
+      <txdHash>blazingtattoo_124</txdHash>
+      <txtHash>blazingtattoo_124</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>     
+    <Item>
+      <uvPos x="0.8500" y="0.500" />
+      <scale x="0.13000" y="0.1200" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_125_M</nameHash><!-- Chinese Mother -->
+      <txdHash>blazingtattoo_125</txdHash>
+      <txtHash>blazingtattoo_125</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>     
+    <Item>
+      <uvPos x="0.500000" y="0.80000" />
+      <scale x="0.090000" y="0.18000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_126_M</nameHash><!-- Samourai -->
+      <txdHash>blazingtattoo_126</txdHash>
+      <txtHash>blazingtattoo_126</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>          
+    <Item>
+      <uvPos x="0.23000" y="0.600000" />
+      <scale x="0.180000" y="0.180000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_127_M</nameHash><!-- Bee Drill -->
+      <txdHash>blazingtattoo_127</txdHash>
+      <txtHash>blazingtattoo_127</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="1.0500" y="0.33000" />
+      <scale x="0.025000" y="0.02500" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_128_M</nameHash><!--Knox Dots -->
+      <txdHash>blazingtattoo_128</txdHash>
+      <txtHash>blazingtattoo_128</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item> 
+    <Item>
+      <uvPos x="0.500000" y="0.2400" />
+      <scale x="0.45000" y="0.15000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_129_M</nameHash><!--Bishop Eagle -->
+      <txdHash>blazingtattoo_129</txdHash>
+      <txtHash>blazingtattoo_129</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>     
+    <Item>
+      <uvPos x="0.500000" y="0.64000" />
+      <scale x="0.250000" y="0.33000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_130_F</nameHash><!-- Crashing Waves -->
+      <txdHash>blazingtattoo_130</txdHash>
+      <txtHash>blazingtattoo_130</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item> 
+    <Item>
+      <uvPos x="0.6250" y="0.59000" />
+      <scale x="0.100000" y="0.100000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_131_M</nameHash><!-- Grenole -->
+      <txdHash>blazingtattoo_131</txdHash>
+      <txtHash>blazingtattoo_131</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>         
+    <Item>
+      <uvPos x="0.750000" y="0.450000" />
+      <scale x="0.35000" y="0.300000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_132_M</nameHash><!-- Ouroborous -->
+      <txdHash>blazingtattoo_132</txdHash>
+      <txtHash>blazingtattoo_132</txtHash>
+      <zone>ZONE_RIGHT_LEG</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>  
+    <Item>
+      <uvPos x="0.100" y="0.475000" />
+      <scale x="0.10000" y="0.120000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_133_M</nameHash><!--Eye Dagger -->
+      <txdHash>blazingtattoo_133</txdHash>
+      <txtHash>blazingtattoo_133</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>       
+    <Item>
+      <uvPos x="0.250000" y="0.550000" />
+      <scale x="0.33500" y="0.300000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_134_F</nameHash><!-- Cupcake -->
+      <txdHash>blazingtattoo_134</txdHash>
+      <txtHash>blazingtattoo_134</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>      
+    <Item>
+      <uvPos x="0.2500" y="0.45000" />
+      <scale x="0.1300" y="0.1400" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_135_M</nameHash><!-- Power ranger -->
+      <txdHash>blazingtattoo_135</txdHash>
+      <txtHash>blazingtattoo_135</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>       
+    <Item>
+      <uvPos x="0.0100000" y="0.37000" />
+      <scale x="0.120000" y="0.1000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_136_M</nameHash><!--Cross -->
+      <txdHash>blazingtattoo_136</txdHash>
+      <txtHash>blazingtattoo_136</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>         
+    <Item>
+      <uvPos x="0.6000" y="0.475000" />
+      <scale x="0.16000" y="0.16000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_137_M</nameHash><!-- Almighty Forgives -->
+      <txdHash>blazingtattoo_137</txdHash>
+      <txtHash>blazingtattoo_137</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>  
+    <Item>
+      <uvPos x="0.4500" y="0.475000" />
+      <scale x="0.16000" y="0.16000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_138_M</nameHash><!-- The Lost Don't -->
+      <txdHash>blazingtattoo_138</txdHash>
+      <txtHash>blazingtattoo_138</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>  
+    <Item>
+      <uvPos x="0.24000" y="0.500000" />
+      <scale x="0.24000" y="0.320000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_139_M</nameHash><!-- Le Muerta -->
+      <txdHash>blazingtattoo_139</txdHash>
+      <txtHash>blazingtattoo_139</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>           
+    <Item>
+      <uvPos x="0.72" y="0.6200" />
+      <scale x="0.260" y="0.350000" />      
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_140_M</nameHash><!-- Simple Demon -->
+      <txdHash>blazingtattoo_140</txdHash>
+      <txtHash>blazingtattoo_140</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>      
+    <Item>
+      <uvPos x="0.625000" y="0.580000" />
+      <scale x="0.075000" y="0.0750000" />
+      <rotation value="0.00000" />
+      <nameHash>blazingtattoo_141_M</nameHash><!-- Spider -->
+      <txdHash>blazingtattoo_141</txdHash>
+      <txtHash>blazingtattoo_141</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>         
+    <Item>
+      <uvPos x="0.74000" y="0.750000" />
+      <scale x="0.120000" y="0.100000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_142_F</nameHash><!-- Sisterhood Front -->
+      <txdHash>blazingtattoo_142</txdHash>
+      <txtHash>blazingtattoo_142</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.235000" y="0.7000" />
+      <scale x="0.25000" y="0.20000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_143_F</nameHash><!-- Sisterhood Back -->
+      <txdHash>blazingtattoo_143</txdHash>
+      <txtHash>blazingtattoo_143</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.235000" y="0.6000" />
+      <scale x="0.2000" y="0.15000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_144_F</nameHash><!-- Sisterhood Patch Back -->
+      <txdHash>blazingtattoo_144</txdHash>
+      <txtHash>blazingtattoo_144</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>        
+    <Item>
+      <uvPos x="0.85000" y="0.775" />
+      <scale x="0.05000" y="0.05000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_145_F</nameHash><!-- Sisterhood Patch Front -->
+      <txdHash>blazingtattoo_145</txdHash>
+      <txtHash>blazingtattoo_145</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>         
+    <Item>
+      <uvPos x="0.250" y="0.3000" />
+      <scale x="0.1500" y="0.1500" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_146_M</nameHash><!-- Principle -->
+      <txdHash>blazingtattoo_146</txdHash>
+      <txtHash>blazingtattoo_146</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>       
+    <Item>
+      <uvPos x="0.72" y="0.6200" />
+      <scale x="0.260" y="0.400000" />  
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_147_F</nameHash><!-- Roses And Skulls -->
+      <txdHash>blazingtattoo_147</txdHash>
+      <txtHash>blazingtattoo_147</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>       
+    <Item>
+      <uvPos x="0.725000" y="0.550000" />
+      <scale x="0.220000" y="0.220000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_148_M</nameHash><!-- Ride Free -->
+      <txdHash>blazingtattoo_148</txdHash>
+      <txtHash>blazingtattoo_148</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>            
+    <Item>
+      <uvPos x="0.32" y="0.5600" />
+      <scale x="0.33" y="0.350000" />   
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_149_F</nameHash><!-- Flower Sleeve -->
+      <txdHash>blazingtattoo_149</txdHash>
+      <txtHash>blazingtattoo_149</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.72" y="0.6200" />
+      <scale x="0.395" y="0.350000" />        
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_150_M</nameHash><!-- Life Sleeve -->
+      <txdHash>blazingtattoo_150</txdHash>
+      <txtHash>blazingtattoo_150</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+    <Item>
+      <uvPos x="0.20" y="0.6200" />
+      <scale x="0.140" y="0.20000" />      
+      <rotation value="0.00000" />
+      <nameHash>blazingtattoo_151_M</nameHash><!-- Bionic Arm -->
+      <txdHash>blazingtattoo_151</txdHash>
+      <txtHash>blazingtattoo_151</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>        
+    <Item>
+      <uvPos x="0.23000" y="0.600000" />
+      <scale x="0.180000" y="0.180000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_152_F</nameHash><!-- Kawaii Freddy Portrait -->
+      <txdHash>blazingtattoo_152</txdHash>
+      <txtHash>blazingtattoo_152</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>   
+    <Item>
+      <uvPos x="0.500000" y="0.82000" />
+      <scale x="0.11000" y="0.110000" />  
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_153_M</nameHash><!-- Ripped Flag -->
+      <txdHash>blazingtattoo_153</txdHash>
+      <txtHash>blazingtattoo_153</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item> 
+    <Item>
+      <uvPos x="0.8300" y="0.50000" />
+      <scale x="0.060" y="0.0900" />    
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_154_M</nameHash><!-- Miriam -->
+      <txdHash>blazingtattoo_154</txdHash>
+      <txtHash>blazingtattoo_154</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item> 
+    <Item>
+      <uvPos x="0.300" y="0.4500" />
+      <scale x="0.12" y="0.1200" />    
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_155_M</nameHash><!-- Death Before Dishonor -->
+      <txdHash>blazingtattoo_155</txdHash>
+      <txtHash>blazingtattoo_155</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item> 
+    <Item>
+      <uvPos x="0.6000" y="0.475000" />
+      <scale x="0.16000" y="0.16000" />
+      <rotation value="0.000000d" />
+      <nameHash>blazingtattoo_156_M</nameHash><!-- Meat -->
+      <txdHash>blazingtattoo_156</txdHash>
+      <txtHash>blazingtattoo_156</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>   
+    <Item>
+      <uvPos x="0.4500" y="0.475000" />
+      <scale x="0.16000" y="0.16000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_157_M</nameHash><!-- Loaf -->
+      <txdHash>blazingtattoo_157</txdHash>
+      <txtHash>blazingtattoo_157</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>         
+    <Item>
+      <uvPos x="0.320000" y="0.700000" />
+      <scale x="0.120000" y="0.120000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_158_M</nameHash><!-- Pollinate -->
+      <txdHash>blazingtattoo_158</txdHash>
+      <txtHash>blazingtattoo_158</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>   
+    <Item>
+      <uvPos x="0.470000" y="0.720000" />
+      <scale x="0.100000" y="0.150000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_159_M</nameHash><!-- Rip Michael -->
+      <txdHash>blazingtattoo_159</txdHash>
+      <txtHash>blazingtattoo_159</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>            
+    <Item>
+      <uvPos x="-0.020000" y="0.320000" />
+      <scale x="0.300000" y="0.200000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_160_F</nameHash><!-- Faith -->
+      <txdHash>blazingtattoo_160</txdHash>
+      <txtHash>blazingtattoo_160</txtHash>
+      <zone>ZONE_HEAD</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>             
+    <Item>
+      <uvPos x="0.650000" y="0.630000" />
+      <scale x="0.250000" y="0.300000" />
+      <rotation value="18.360000" />     
+      <nameHash>blazingtattoo_161_F</nameHash><!-- Faith -->
+      <txdHash>blazingtattoo_161</txdHash>
+      <txtHash>blazingtattoo_161</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>       
+    <Item>
+      <uvPos x="0.84000" y="0.680000" />
+      <scale x="0.0525000" y="0.052500" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_162_A</nameHash><!-- PostOp White Pocket -->
+      <txdHash>blazingtattoo_162</txdHash>
+      <txtHash>blazingtattoo_162</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>       
+    <Item>
+      <uvPos x="0.25000" y="0.72000" />
+      <scale x="0.14000" y="0.14000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_163_A</nameHash><!-- PostOp White Back -->
+      <txdHash>blazingtattoo_163</txdHash>
+      <txtHash>blazingtattoo_163</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>        
+    <Item>
+      <uvPos x="0.84000" y="0.680000" />
+      <scale x="0.0525000" y="0.052500" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_164_A</nameHash><!-- PostOp Yellow Pocket -->
+      <txdHash>blazingtattoo_164</txdHash>
+      <txtHash>blazingtattoo_164</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>       
+    <Item>
+      <uvPos x="0.25000" y="0.72000" />
+      <scale x="0.14000" y="0.14000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_165_A</nameHash><!-- PostOp Yellow Back -->
+      <txdHash>blazingtattoo_165</txdHash>
+      <txtHash>blazingtattoo_165</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>     
+    <Item>
+      <uvPos x="0.84000" y="0.680000" />
+      <scale x="0.0525000" y="0.052500" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_166_A</nameHash><!-- PostOp Brown Pocket -->
+      <txdHash>blazingtattoo_166</txdHash>
+      <txtHash>blazingtattoo_166</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>       
+    <Item>
+      <uvPos x="0.25000" y="0.72000" />
+      <scale x="0.14000" y="0.14000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_167_A</nameHash><!-- PostOp Brown Back -->
+      <txdHash>blazingtattoo_167</txdHash>
+      <txtHash>blazingtattoo_167</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>           
+    <Item>
+      <uvPos x="0.74000" y="0.66000" />
+      <scale x="0.120000" y="0.120000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_168_A</nameHash><!-- PizzaThis Front -->
+      <txdHash>blazingtattoo_168</txdHash>
+      <txtHash>blazingtattoo_168</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>       
+    <Item>
+      <uvPos x="0.25000" y="0.7000" />
+      <scale x="0.1200" y="0.12000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_169_A</nameHash><!-- PizzaThis Back -->
+      <txdHash>blazingtattoo_169</txdHash>
+      <txtHash>blazingtattoo_169</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item> 
+    <Item>
+      <uvPos x="0.74000" y="0.65000" />
+      <scale x="0.160000" y="0.160000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_170_A</nameHash><!-- Redline White Front -->
+      <txdHash>blazingtattoo_170</txdHash>
+      <txtHash>blazingtattoo_170</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>       
+    <Item>
+      <uvPos x="0.84000" y="0.680000" />
+      <scale x="0.080000" y="0.080000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_171_A</nameHash><!-- Redline White Pocket -->
+      <txdHash>blazingtattoo_171</txdHash>
+      <txtHash>blazingtattoo_171</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>           
+    <Item>
+      <uvPos x="0.25000" y="0.7000" />
+      <scale x="0.160000" y="0.160000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_172_A</nameHash><!-- Redline White Back -->
+      <txdHash>blazingtattoo_172</txdHash>
+      <txtHash>blazingtattoo_172</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>  
+        
+    <Item>
+      <uvPos x="0.74000" y="0.65000" />
+      <scale x="0.160000" y="0.160000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_173_A</nameHash><!-- Redline Black Front -->
+      <txdHash>blazingtattoo_173</txdHash>
+      <txtHash>blazingtattoo_173</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>       
+    <Item>
+      <uvPos x="0.84000" y="0.680000" />
+      <scale x="0.080000" y="0.080000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_174_A</nameHash><!-- Redline Black Pocket -->
+      <txdHash>blazingtattoo_174</txdHash>
+      <txtHash>blazingtattoo_174</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>           
+    <Item>
+      <uvPos x="0.25000" y="0.7000" />
+      <scale x="0.160000" y="0.160000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_175_A</nameHash><!-- Redline Black Back -->
+      <txdHash>blazingtattoo_175</txdHash>
+      <txtHash>blazingtattoo_175</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>  
+
+    <Item>
+      <uvPos x="0.84000" y="0.680000" />
+      <scale x="0.070000" y="0.070000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_176_A</nameHash><!-- Phoenix Pocket -->
+      <txdHash>blazingtattoo_176</txdHash>
+      <txtHash>blazingtattoo_176</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>       
+    <Item>
+      <uvPos x="0.25000" y="0.66000" />
+      <scale x="0.1600" y="0.160000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_177_A</nameHash><!-- Phoenix Back -->
+      <txdHash>blazingtattoo_177</txdHash>
+      <txtHash>blazingtattoo_177</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item> 
+    <Item>
+      <uvPos x="0.74000" y="0.5500" />
+      <scale x="0.160000" y="0.160000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_178_A</nameHash><!-- Dog Confused -->
+      <txdHash>blazingtattoo_178</txdHash>
+      <txtHash>blazingtattoo_178</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>       
+    <Item>
+      <uvPos x="0.74000" y="0.5500" />
+      <scale x="0.160000" y="0.160000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_179_A</nameHash><!-- Dog Excited -->
+      <txdHash>blazingtattoo_179</txdHash>
+      <txtHash>blazingtattoo_179</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>        
+    <Item>
+      <uvPos x="0.450000" y="0.620000" />
+      <scale x="0.3000" y="0.30000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_180_A</nameHash><!-- Demonic Sleeve -->
+      <txdHash>blazingtattoo_180</txdHash>
+      <txtHash>blazingtattoo_180</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>              
+    <Item>
+      <uvPos x="0.8200" y="0.60000" />
+      <scale x="0.100000" y="0.100000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_181_A</nameHash><!-- Film -->
+      <txdHash>blazingtattoo_181</txdHash>
+      <txtHash>blazingtattoo_181</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>       
+    <Item>
+      <uvPos x="0.7200" y="0.47500" />
+      <scale x="0.160000" y="0.150000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_182_A</nameHash><!-- Flamer -->
+      <txdHash>blazingtattoo_182</txdHash>
+      <txtHash>blazingtattoo_182</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>       
+    <Item>
+      <uvPos x="0.5000" y="0.400" />
+      <scale x="0.130000" y="0.130000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_183_A</nameHash><!-- Losing Time -->
+      <txdHash>blazingtattoo_183</txdHash>
+      <txtHash>blazingtattoo_183</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>       
+    <Item>
+      <uvPos x="0.5000" y="0.7600" />
+      <scale x="0.160000" y="0.160000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_184_A</nameHash><!-- Japanese Sunset -->
+      <txdHash>blazingtattoo_184</txdHash>
+      <txtHash>blazingtattoo_184</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>       
+    <Item>
+      <uvPos x="0.74000" y="0.5500" />
+      <scale x="0.160000" y="0.160000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_185_A</nameHash><!-- Team Four Merch -->
+      <txdHash>blazingtattoo_185</txdHash>
+      <txtHash>blazingtattoo_185</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>            
+    <Item>
+      <uvPos x="0.74000" y="0.5500" />
+      <scale x="0.160000" y="0.160000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_186_A</nameHash><!-- Link In The Bio Merch -->
+      <txdHash>blazingtattoo_186</txdHash>
+      <txtHash>blazingtattoo_186</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item>            
+    <Item>
+      <uvPos x="0.25000" y="0.66000" />
+      <scale x="0.1600" y="0.160000" />
+      <rotation value="0.000000" />
+      <nameHash>blazingtattoo_187_A</nameHash><!-- Security Back -->
+      <txdHash>blazingtattoo_187</txdHash>
+      <txtHash>blazingtattoo_187</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_BADGE</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_DONTCARE</gender>
+      <award />
+      <awardLevel />
+    </Item> 
+  </presets>
+  <nameHash>blazingtattoo_overlays</nameHash>
+  <medalLocations content="vector2_array">
+    0.140000  0.070000  
+    0.370000  0.070000  
+    0.600000  0.070000  
+    0.835000  0.070000  
+    0.140000  0.150000  
+    0.370000  0.150000  
+    0.600000  0.150000  
+    0.835000  0.150000  
+    0.140000  0.230000  
+    0.370000  0.230000  
+    0.600000  0.230000  
+    0.835000  0.230000  
+    0.100000  0.700000  
+    0.300000  0.700000  
+    0.500000  0.700000  
+    0.700000  0.700000  
+  </medalLocations>
+  <medalScale x="0.240000" y="0.100000" />
+</PedDecorationCollection>

@@ -1,0 +1,2288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TattooShopItemArray>
+  <TattooShopItems>
+	<!-- Male Biker tattoos -->
+	<Item>
+	    <id value="92610"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_001</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_01_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<!-- Female Biker tattoos -->
+<!-- 	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_001</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_01_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item> -->
+		<!-- Male Biker tattoos -->
+	<Item>
+	    <id value="92610"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_002</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_02_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+		<!-- Male Biker tattoos -->
+	<Item>
+	    <id value="92610"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_003</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_03_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+		<!-- Male Biker tattoos -->
+	<Item>
+	    <id value="92610"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_004</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_04_A</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<!-- Female Biker tattoos -->
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_005</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_05_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_006</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_06_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_007</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_07_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_008</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_08_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_009</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_09_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_010</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_10_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_011</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_11_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>							
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_012</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_12_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>			
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_013</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_13_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_014</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_14_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>			
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_015</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_15_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_016</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_16_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_017</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_17_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_018</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_18_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_019</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_19_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_020</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_20_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_021</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_21_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_022</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_22_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_023</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_23_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_024</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_24_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>			
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_025</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_25_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_026</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_26_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_027</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_27_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>							
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_028</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_28_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_029</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_29_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>							
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_030</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_30_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_031</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_31_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_032</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_32_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>			
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_033</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_33_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_034</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_34_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_035</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_35_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>			
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_036</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_36_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>				
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_037</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_37_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_038</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_38_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_039</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_39_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_040</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_40_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_041</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_41_M</preset><!-- Chief Stomach -->
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_042</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_42_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_043</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_43_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_044</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_44_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_045</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_45_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_046</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_46_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_047</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_47_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>			
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_048</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_48_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_049</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_49_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>			
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_050</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_50_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>			
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_051</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_51_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_052</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_52_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_053</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_53_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_054</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_54_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_055</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_55_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_056</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_56_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_057</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_57_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_058</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_58_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_059</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_59_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_060</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_60_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_061</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_61_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>					
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_062</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_62_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_063</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_63_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_064</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_64_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_065</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_65_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>			
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_066</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_66_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_067</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_67_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>			
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_068</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_68_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_069</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_69_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_070</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_70_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_071</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_71_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_072</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_72_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_073</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_73_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_074</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_74_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_075</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_75_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>									
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_076</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_76_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>									
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_077</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_77_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_078</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_78_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>									
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_079</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_79_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>									
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_080</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_80_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_081</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_81_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_082</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_82_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_083</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_83_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_084</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_84_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_085</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_85_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_086</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_86_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_087</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_87_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_088</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_88_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_089</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_89_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>				
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_090</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_90_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>				
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_091</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_91_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>				
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_092</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_92_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>				
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_093</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_93_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>			
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_094</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_94_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>			
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_095</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_95_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_096</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_96_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_097</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_97_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_098</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_98_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_099</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_99_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_100</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_100_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_101</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_101_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_102</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_102_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_103</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_103_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_104</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_104_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_105</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_105_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_106</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_106_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_107</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_107_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_108</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_108_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_109</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_109_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>			
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_110</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_110_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_111</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_111_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_112</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_112_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_113</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_113_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_114</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_114_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_115</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_115_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_116</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_116_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_117</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_117_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_118</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_118_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>				
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_119</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_119_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_120</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_120_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_121</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_121_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_122</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_122_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_123</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_123_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_124</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_124_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_125</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_125_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_126</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_126_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_127</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_127_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_128</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_128_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_129</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_129_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_130</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_130_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_131</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_131_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_132</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_132_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_133</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_133_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_134</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_134_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>			
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_135</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_135_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_136</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_136_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_137</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_137_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_138</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_138_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>				
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_139</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_139_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_140</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_140_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_141</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_141_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_142</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_142_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_143</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_143_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_144</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_144_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>					
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_145</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_145_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>			
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_146</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_146_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_147</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_147_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_148</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_148_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_149/textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_149_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_150</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_150_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>				
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_151</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_151_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_152</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_152_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_153</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_153_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_154</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_154_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_155</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_155_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_156</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_156_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_157</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_157_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>				
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_158</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_158_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_159</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_159_M</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_160</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_160_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_161</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_161_F</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>			
+		<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_162</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_162_A</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	</Item>			
+		<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_163</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_163_A</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	</Item>			
+		<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_164</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_164_A</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	</Item>			
+		<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_165</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_165_A</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	</Item>			
+		<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_166</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_166_A</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	</Item>			
+		<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_167</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_167_A</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	</Item>			
+		<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_168</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_168_A</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	</Item>			
+		<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_169</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_169_A</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	</Item>			
+		<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_170</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_170_A</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	</Item>			
+		<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_171</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_171_A</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	</Item>			
+		<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_172</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_172_A</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	</Item>			
+		<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_173</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_173_A</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	</Item>			
+		<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_174</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_174_A</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	</Item>			
+		<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_175</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_175_A</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	</Item>			
+		<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_176</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_176_A</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	</Item>			
+		<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_177</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_177_A</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>			
+	</Item>			
+		<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_178</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_178_A</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	</Item>			
+		<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_179</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_179_A</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>		
+	</Item>			
+		<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_180</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_180_A</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	</Item>			
+		<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_181</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_181_A</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	</Item>			
+		<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_182</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_182_A</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	</Item>			
+		<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_183</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_183_A</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	</Item>			
+		<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_184</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_184_A</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>																											
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_185</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_185_A</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>	
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_186</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_186_A</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+	<Item>
+	    <id value="92642"/>
+	    <cost value="50"/>
+	    <textLabel>BLAZINGTATTOO_TAT_187</textLabel>
+	    <collection>blazingtattoo_overlays</collection>
+	    <preset>blazingtattoo_187_A</preset>
+	    <zone>PDZ_HEAD</zone>
+	    <eFacing>TATTOO_RIGHT</eFacing>
+	    <updateGroup>ARM_RIGHT_LOWER_SLEEVE</updateGroup>
+	    <eFaction>TATTOO_MP_FM_F</eFaction>
+	    <lockHash>CUSTOM_TATTOOS</lockHash>
+	</Item>
+  </TattooShopItems>
+</TattooShopItemArray>
