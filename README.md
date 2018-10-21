@@ -37,10 +37,11 @@ The key components you need to edit:
 If it is a fe(male) tattoo, it should be named blazingtattoo_05_F or _M instead.
 If it is a badge or hairstyle, you need to change <type> property to reflect that.
 
-Potential <type>'s are:
+Potential type's are:
 TYPE_BADGE
 TYPE_TATTOO
-Potential <zone>'s are:
+
+Potential zone's are:
 ZONE_HEAD
 ZONE_LEFT_ARM
 ZONE_LEFT_LEG
