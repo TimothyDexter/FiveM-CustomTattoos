@@ -9,10 +9,10 @@ Note: Anything proceeding the underscore must be the same as the tattoo collecti
 Note: Anything proceeding the underscore must be the same as the tattoo collection name.
 5.  Open the tattoo .ytd in OpenIV texture editor and use the rename option to match the image filename, e.g. blazingtattoo_60
 6.  While still in texture editor, use the replace option and select the image file with the same name (e.g. blazingtattoo_60.png).
-7.  You should have now have 2 textures in the tattoo, delete the older one and save the .ytd
+7.  You may possible have 2 textures in the tattoo at this point, delete the older one if it still exists and save the .ytd
 8.  Move the .ytd to resources\[familyrp]\new_overlays\stream
 9.  Open/Create an .xml similar to blazingtattoos_overalys.xml located in \resources\[familyrp]\new_overlays
-This file dictates the tattoo gender, placement, and scale.  Male tattoos will only work on males and vice versa.  If you hear of someone saying the tattoo shows for them but not others, it is because they are using a tattoo opposite of their gender.
+This file dictates the tattoo gender, placement, and scale.  Male tattoos will only work on males and vice versa.  If you hear of someone saying the tattoo shows for them but not others, it is because they are using a tattoo opposite of their gender.  Using GENDER_DONTCARE should make it so that tattoos show up for regardless of gender.
 
 Follow previous examples located in blazingtattoos_overlays.xml
 Note: Anything proceeding _overlays must be the same as the tattoo collection name.
