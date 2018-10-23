@@ -24,10 +24,9 @@ using System;
 using System.Collections.Generic;
 using CitizenFX.Core;
 using CitizenFX.Core.Native;
-using FamilyRP.Roleplay.SharedClasses;
 using Newtonsoft.Json;
 
-namespace FamilyRP.Roleplay.Client.Classes.Player
+namespace Roleplay.Client.Classes.Player
 {
 	internal class OverlayManager
 	{
