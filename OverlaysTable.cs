@@ -21,9 +21,8 @@
 
 using System;
 using System.Collections.Generic;
-using FamilyRP.Roleplay.SharedClasses;
 
-namespace FamilyRP.Roleplay.Client.Classes.Player
+namespace Roleplay.Client.Classes.Player
 {
 	internal class OverlaysTable
 	{
