@@ -1,5 +1,7 @@
 # FiveM-CustomTattoos
 
+[Preview](https://youtu.be/B-UA81b9e0o)
+
 1.  Re-size the .png image to be used so that the dimensions are powers of 2 (e.g. 512x512, 256x1024, etc.)
 Note: This isn't a requirement but it will take advantage of mipmaps which improve image quality when applied to the characters.
 2.  Rename the image to the overlay name you'll use, e.g. blazingtattoo_60.png
